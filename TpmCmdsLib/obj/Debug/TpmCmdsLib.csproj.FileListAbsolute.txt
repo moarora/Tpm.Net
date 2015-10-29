@@ -1,7 +1,0 @@
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\bin\Debug\TpmCmdsLib.dll
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\bin\Debug\TpmCmdsLib.pdb
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\bin\Debug\TpmWrapper.dll
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\bin\Debug\TpmWrapper.pdb
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\obj\Debug\TpmCmdsLib.csprojResolveAssemblyReference.cache
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\obj\Debug\TpmCmdsLib.dll
-c:\users\mohit arora\documents\visual studio 2012\Projects\Tpm.Net\TpmCmdsLib\obj\Debug\TpmCmdsLib.pdb
